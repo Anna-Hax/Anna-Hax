@@ -77,6 +77,6 @@
 
 ---
 
-<div align="center">
-  ⭐️ From [Anna-Hax](https://github.com/Anna-Hax)
-</div>
+
+⭐️ From [Anna-Hax](https://github.com/Anna-Hax)
+
