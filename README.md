@@ -52,10 +52,12 @@
 
 
 ## 📌 Projects
-
+<div align="center">
+  
 [Examination Portal](https://github.com/MdgSpace-Soc-D-2024/Examino) <br>
 [Collaborative Task Manager](https://github.com/ava-xmas/taskman)
 
+</div>
 ## 🤝 Connect with Me
 
 <div align="center">
@@ -76,5 +78,5 @@
 ---
 
 <div align="center">
-  <i>⭐️ From [Anna-Hax](https://github.com/Anna-Hax)</i>
+  ⭐️ From [Anna-Hax](https://github.com/Anna-Hax)
 </div>
