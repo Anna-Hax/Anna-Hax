@@ -54,8 +54,9 @@
 ## 📌 Projects
 <div align="center">
   
-[Examination Portal](https://github.com/MdgSpace-Soc-D-2024/Examino) <br>
-[Collaborative Task Manager](https://github.com/ava-xmas/taskman)
+<b> [Examination Portal](https://github.com/MdgSpace-Soc-D-2024/Examino) </b> <br>
+<b> [Collaborative Task Manager](https://github.com/ava-xmas/taskman) </b> <br>
+<b> [Flutter Adding Courses App - llms also used](https://github.com/Anna-Hax/flutter-assignment) </b>
 
 </div>
 ## 🤝 Connect with Me
