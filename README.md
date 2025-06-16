@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **A VSCode Extension Project**
+- 🔭 I'm currently working on **[A VSCode Extension Project](https://github.com/mdgspace/GhostDev)**
 - 🌱 I'm currently learning **Flutter** and plan on learning **Blockchain and OS** further.
 - 👯 I'm looking to collaborate on **Any Exciting Project Really!**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/dhruvi-purohit-968774334/) | [Email](mailto:dhruvi.purohit06@gmail.com)**
