@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-
+- ❤️ Currently a Btech Student at Indian Institute of Technology, Roorkee.
 - 🔭 I'm currently working on **[A VSCode Extension Project](https://github.com/mdgspace/GhostDev)**
 - 🌱 I'm currently learning **System Software and Blockchain** and plan on learning **OS** further.
 - 👯 I'm looking to collaborate on **Any Exciting Project Really!**
