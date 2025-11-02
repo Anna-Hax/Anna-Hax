@@ -83,7 +83,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvi-purohit-968774334/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-dhruvi.netlify.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvi.purohit06@gmail.com)
 
 </div>
