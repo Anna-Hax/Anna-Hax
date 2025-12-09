@@ -7,6 +7,7 @@
 ## 🚀 About Me
 - ❤️ Currently a Btech Student at Indian Institute of Technology, Roorkee.
 - 🔭 I'm currently working on **[A Time Based DeFi Lending Protocol](https://github.com/ArcaneStdio/Chrono)**
+- 🔥 I'm a part of **[Arcane Studio](https://github.com/ArcaneStdio)**
 - 🌱 I'm currently learning **System Software and Blockchain** and plan on learning **OS** further.
 - 👯 I'm looking to collaborate on **Any Exciting Project Really!**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/dhruvi-purohit-968774334/) | [Email](mailto:dhruvi.purohit06@gmail.com)**
