@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - ❤️ Currently a Btech Student at Indian Institute of Technology, Roorkee.
-- 🔭 I'm currently working on **[A VSCode Extension Project](https://github.com/mdgspace/GhostDev)**
+- 🔭 I'm currently working on **[A Time Based DeFi Lending Protocol](https://github.com/ArcaneStdio/Chrono)**
 - 🌱 I'm currently learning **System Software and Blockchain** and plan on learning **OS** further.
 - 👯 I'm looking to collaborate on **Any Exciting Project Really!**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/dhruvi-purohit-968774334/) | [Email](mailto:dhruvi.purohit06@gmail.com)**
@@ -70,11 +70,11 @@
 
 ## 📌 Projects
 <div align="center">
+<b> [Arcane - A web3 powered 2D RPG Game (Blockchain)](https://github.com/ArcaneStdio/Chains-Of-Eternity-Flow) </b>
 <b> [Decentralized AI Model Hackathon (Blockchain)](https://github.com/Anna-Hax/ModelArena) </b>
 <b> [Examination Portal](https://github.com/MdgSpace-Soc-D-2024/Examino) </b> <br>
 <b> [Collaborative Task Manager](https://github.com/ava-xmas/taskman) </b> <br>
-<b> [Flutter Adding Courses App - llms also used](https://github.com/Anna-Hax/flutter-assignment) </b>
-
+<b> [Flutter Adding Courses App](https://github.com/Anna-Hax/flutter-assignment) </b>
 </div>
 
 
