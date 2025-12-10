@@ -56,11 +56,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anna-Hax&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anna-Hax&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
 
 ## 🏆 GitHub Trophies
 
