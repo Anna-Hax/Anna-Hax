@@ -1,76 +1,94 @@
-# Hi there! 👋 I'm Dhruvi Purohit
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Blockchain+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-- ❤️ Currently a Btech Student at Indian Institute of Technology, Roorkee.
-- 🔭 I'm currently working on **[A Time Based DeFi Lending Protocol](https://github.com/ArcaneStdio/Chrono)**
-- 🔥 I'm a part of **[Arcane Studio](https://github.com/ArcaneStdio)**
-- 🌱 I'm currently learning **System Software and Blockchain** and plan on learning **OS** further.
-- 👯 I'm looking to collaborate on **Any Exciting Project Really!**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/dhruvi-purohit-968774334/) | [Email](mailto:dhruvi.purohit06@gmail.com)**
-
-## 🛠️ Technologies & Tools
-
 <div align="center">
 
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+# Dhruvi Purohit
 
-  <!-- Frameworks / Libraries -->
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Backend+Engineer;Full+Stack+Developer;Blockchain+%26+Web3+Builder;IIT+Roorkee+%7C+B.Tech;Systems+%26+DeFi+Enthusiast" alt="Typing SVG" />
 
-  <!-- ML / AI -->
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<p>
+  <a href="https://linkedin.com/in/dhruvi-purohit-968774334/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dhruvi.purohit06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-
-  <!-- DevOps / Systems -->
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
-</div>
-
-## 📌 Projects
-<div align="center">
-<b> [Arcane - A web3 powered 2D RPG Game (Blockchain)](https://github.com/ArcaneStdio/Chains-Of-Eternity-Flow) </b>
-<b> [Decentralized AI Model Hackathon (Blockchain)](https://github.com/Anna-Hax/ModelArena) </b>
-<b> [Examination Portal](https://github.com/MdgSpace-Soc-D-2024/Examino) </b> <br>
-<b> [Collaborative Task Manager](https://github.com/ava-xmas/taskman) </b> <br>
-<b> [Flutter Adding Courses App](https://github.com/Anna-Hax/flutter-assignment) </b>
-</div>
-
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvi-purohit-968774334/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvi.purohit06@gmail.com)
-
-</div>
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anna-Hax/Anna-Hax/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
+## 👩‍💻 About Me
 
-⭐️ From [Anna-Hax](https://github.com/Anna-Hax)
+B.Tech student at **IIT Roorkee**.
 
+- 🔭 Building **[Chrono](https://github.com/ArcaneStdio/Chrono)** — a time-based DeFi lending protocol
+- 📖 Studying **DSA fundamentals and working on Competitive Programming Skills**; next up: Operating Systems internals
+- 🤝 Open to collaborating on anything ambitious — Dev, Agentic, DeFi, games, infra, or something weird
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Frameworks & Platforms**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Chrono**](https://github.com/ArcaneStdio/Chrono) | Time-based DeFi lending protocol — borrow/lend against time-locked assets | Blockchain, Solidity |
+| [**Chains of Eternity**](https://github.com/ArcaneStdio/Chains-Of-Eternity-Flow) | Web3-powered 2D RPG game with on-chain asset ownership | Blockchain, Game Dev |
+| [**ModelArena**](https://github.com/Anna-Hax/ModelArena) | Decentralized AI model marketplace — hackathon project | Blockchain, AI |
+| [**Examino**](https://github.com/MdgSpace-Soc-D-2024/Examino) | Full-featured examination portal with real-time proctoring support | Full Stack |
+| [**Taskman**](https://github.com/ava-xmas/taskman) | Collaborative task manager with real-time sync | Full Stack |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Anna-Hax&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Hax&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Anna-Hax&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anna-Hax/Anna-Hax/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Always building. Always learning. Let's connect → <a href="mailto:dhruvi.purohit06@gmail.com">dhruvi.purohit06@gmail.com</a></sub>
+</div>
