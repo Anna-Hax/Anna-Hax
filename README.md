@@ -60,8 +60,9 @@ B.Tech student at **IIT Roorkee**.
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Chrono**](https://github.com/ArcaneStdio/Chrono) | Time-based DeFi lending protocol — borrow/lend against time-locked assets | Blockchain, Solidity |
+| [**Chrono**](https://github.com/ArcaneStdio/Chrono) | Time-based DeFi lending protocol — borrow/lend against time-locked assets | Defi |
 | [**Chains of Eternity**](https://github.com/ArcaneStdio/Chains-Of-Eternity-Flow) | Web3-powered 2D RPG game with on-chain asset ownership | Blockchain, Game Dev |
+| [**GhostDev**](https://github.com/mdgspace/GhostDev) | VS Code extension that learns from your GitHub repos to suggest personalized commit messages & code refinements | AgenticAI, Dev |
 | [**ModelArena**](https://github.com/Anna-Hax/ModelArena) | Decentralized AI model marketplace — hackathon project | Blockchain, AI |
 | [**Examino**](https://github.com/MdgSpace-Soc-D-2024/Examino) | Full-featured examination portal with real-time proctoring support | Full Stack |
 | [**Taskman**](https://github.com/ava-xmas/taskman) | Collaborative task manager with real-time sync | Full Stack |
