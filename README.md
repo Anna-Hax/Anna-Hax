@@ -21,9 +21,9 @@
 
 B.Tech student at **IIT Roorkee**.
 
-- 🔭 Building **[Chrono](https://github.com/ArcaneStdio/Chrono)** — a time-based DeFi lending protocol
-- 📖 Studying **DSA fundamentals and working on Competitive Programming Skills**; next up: Operating Systems internals
-- 🤝 Open to collaborating on anything ambitious — Dev, Agentic, DeFi, games, infra, or something weird
+- 🔭 Building **[JUNO](https://github.com/Anna-Hax/JUNO)** — A personal knowledge graph agent
+- 📖 Studying Agentic AI and blockchain
+- 🤝 Open to collaborating on anything ambitious — Dev, Agentic, DeFi, games, infra, or anything weird
 
 ---
 
